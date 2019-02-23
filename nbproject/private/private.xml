@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/ICC-trophy/database/seeds/teamsTableSeeder.php</file>
+            <file>file:/var/www/ICC-trophy/config/env.php</file>
+            <file>file:/var/www/ICC-trophy/routes/web.php</file>
+            <file>file:/var/www/ICC-trophy/database/migrations/2019_02_23_063253_create_table_fixtures.php</file>
+            <file>file:/var/www/ICC-trophy/config/database.php</file>
+            <file>file:/var/www/ICC-trophy/app/Http/Controllers/ICCcontroller.php</file>
+            <file>file:/var/www/ICC-trophy/database/migrations/2019_02_23_052857_create_table_teams.php</file>
+            <file>file:/var/www/ICC-trophy/resources/views/index.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
